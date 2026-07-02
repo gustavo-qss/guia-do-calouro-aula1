@@ -12,6 +12,6 @@ formato `- [Título](arquivo.md) — resumo curto`.
 <!-- ADICIONE A LINHA DO SEU VERBETE LOGO ABAIXO DESTA LINHA -->
 
 - [Cantinas: onde comer em cada campus](cantinas.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
-
+- [Grupo de IA: grupo com aulas sobre IA](Grupo-de-IA.md) — Grupo de aprendizado de IA; sexta só na Sede - Lab 8.
 - [Estacionamento](estacionamento.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
 - [Sala de robótica](sala-robótica.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
