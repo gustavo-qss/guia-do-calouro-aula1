@@ -11,3 +11,4 @@ formato `- [Título](arquivo.md) — resumo curto`.
 
 <!-- ADICIONE A LINHA DO SEU VERBETE LOGO ABAIXO DESTA LINHA -->
 - [Cantinas: onde comer em cada campus](cantinas.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
+- [NPI: um pouco sobre o Núcleo de Práticas de Informática](NPI.md) — Grupo de estudos/ Empresa junor
