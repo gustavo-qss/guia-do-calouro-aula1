@@ -3,6 +3,8 @@
   verbetes fica em verbetes/INDEX.md (e la que todo mundo adiciona a sua linha).
 -->
 
+Grupo os 3 elementos
+Gustavo Correia Machado
 # Guia de Sobrevivência do Calouro
 
 Catálogo colaborativo da turma: o que a gente queria saber no primeiro dia de faculdade.
