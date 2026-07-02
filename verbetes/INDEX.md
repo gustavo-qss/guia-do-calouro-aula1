@@ -15,3 +15,5 @@ formato `- [Título](arquivo.md) — resumo curto`.
 
 - [Estacionamento](estacionamento.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
 - [Sala de robótica](sala-robótica.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
+
+- [NPI](NPI.md) — Meu conhecimento sobre o npi
