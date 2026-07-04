@@ -1,14 +1,15 @@
 # Índice do Guia
 
-A lista de todos os verbetes do códex. **Cada aluno adiciona uma linha** do seu verbete aqui, no
-formato `- [Título](arquivo.md) — resumo curto`.
+A lista de todos os verbetes do códex. **Cada aluno adiciona uma linha** do seu verbete aqui, no formato `- [Título](arquivo.md) - resumo curto`.
 
 > O conflito de merge vai acontecer **de propósito**: todos adicionam a linha no **mesmo ponto** desta
-> lista. O 1º Pull Request entra limpo; o 2º e o 3º vão conflitar aqui — e tudo bem, resolver o
+> lista. O 1º Pull Request entra limpo; o 2º e o 3º vão conflitar aqui - e tudo bem, resolver o
 > conflito (mantendo as duas linhas) faz parte da aula.
 
 ## Verbetes
 
 <!-- ADICIONE A LINHA DO SEU VERBETE LOGO ABAIXO DESTA LINHA -->
+- [Campus Ipolon](campus-ipolon.md) - Por que parece um hospital abandonado e a cilada de Engenharia de Software.
+- [Cantina do Ipolon](cantina-ipolon.md) - Onde encontrar a melhor empada e salgados fritos.
 - [Biblioteca](biblioteca.md) - Espaço silencioso para estudos e pesquisas.
-- [Cantinas: onde comer em cada campus](cantinas.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
+- [Cantinas: onde comer em cada campus](cantinas.md) - pastel e vitamina no Ipolon I; sábado só no Ipolon II.
