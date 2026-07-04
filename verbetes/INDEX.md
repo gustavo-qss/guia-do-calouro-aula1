@@ -10,4 +10,5 @@ formato `- [Título](arquivo.md) — resumo curto`.
 ## Verbetes
 
 <!-- ADICIONE A LINHA DO SEU VERBETE LOGO ABAIXO DESTA LINHA -->
+- [Biblioteca](biblioteca.md) - Espaço silencioso para estudos e pesquisas.
 - [Cantinas: onde comer em cada campus](cantinas.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
